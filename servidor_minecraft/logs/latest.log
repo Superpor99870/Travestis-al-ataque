@@ -131,3 +131,22 @@
 [18Apr2025 23:37:32.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Survival Mode]
 [18Apr2025 23:38:37.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2344ms or 46 ticks behind
 [18Apr2025 23:40:08.933] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2262ms or 45 ticks behind
+[18Apr2025 23:42:32.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Akukis has made the advancement [Acquire Hardware]
+[18Apr2025 23:43:12.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Akukis has made the advancement [Isn't It Iron Pick]
+[18Apr2025 23:44:39.268] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[18Apr2025 23:46:36.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Spectator Mode]
+[18Apr2025 23:46:57.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Survival Mode]
+[18Apr2025 23:47:40.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Akukis was slain by entity.mimicer.mimicer
+[18Apr2025 23:47:44.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Teleported Akukis to siganconsumiendo]
+[18Apr2025 23:50:25.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: siganconsumiendo fell from a high place
+[18Apr2025 23:52:16.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Gave 2 [White Wool] to Akukis]
+[18Apr2025 23:52:27.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Spectator Mode]
+[18Apr2025 23:52:35.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Survival Mode]
+[18Apr2025 23:53:20.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: siganconsumiendo was slain by Enderman
+[18Apr2025 23:53:24.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Akukis was slain by Enderman
+[18Apr2025 23:55:12.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Akukis has made the advancement [Monster Hunter]
+[18Apr2025 23:55:37.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Spectator Mode]
+[18Apr2025 23:55:50.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Survival Mode]
+[18Apr2025 23:57:43.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Akukis has made the advancement [Not Today, Thank You]
+[18Apr2025 23:58:00.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: siganconsumiendo was slain by Enderman
+[18Apr2025 23:58:31.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: siganconsumiendo has made the advancement [Monster Hunter]
