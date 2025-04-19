@@ -102,3 +102,5 @@
 [19Apr2025 16:55:02.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Survival Mode]
 [19Apr2025 16:55:09.417] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Akukis lost connection: Disconnected
 [19Apr2025 16:55:09.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Akukis left the game
+[19Apr2025 16:56:39.822] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: siganconsumiendo lost connection: Disconnected
+[19Apr2025 16:56:39.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: siganconsumiendo left the game
