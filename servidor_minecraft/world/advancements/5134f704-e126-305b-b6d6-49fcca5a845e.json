@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-04-19 00:16:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-04-18 23:41:44 +0000"
@@ -188,6 +194,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-04-18 23:32:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-19 00:15:49 +0000"
     },
     "done": true
   },
@@ -487,6 +499,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-04-19 00:13:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-04-18 23:49:24 +0000"
@@ -553,6 +571,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-04-19 00:16:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-18 23:33:16 +0000"
@@ -582,8 +606,12 @@
       "minecraft:birch_forest": "2025-04-18 23:27:46 +0000",
       "minecraft:dark_forest": "2025-04-18 23:26:31 +0000",
       "minecraft:river": "2025-04-18 23:29:04 +0000",
+      "minecraft:forest": "2025-04-19 00:13:54 +0000",
+      "minecraft:jungle": "2025-04-19 00:13:42 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-18 23:29:06 +0000",
-      "minecraft:meadow": "2025-04-18 23:49:27 +0000"
+      "minecraft:meadow": "2025-04-18 23:49:27 +0000",
+      "minecraft:savanna": "2025-04-19 00:16:01 +0000",
+      "minecraft:plains": "2025-04-19 00:14:01 +0000"
     },
     "done": false
   },
@@ -779,9 +807,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-19 00:16:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-04-18 23:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-19 00:16:39 +0000"
     },
     "done": true
   },
@@ -795,6 +835,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-18 23:55:12 +0000",
       "minecraft:spider": "2025-04-19 00:03:22 +0000",
+      "minecraft:witch": "2025-04-19 00:08:46 +0000",
       "minecraft:zombie": "2025-04-18 23:57:54 +0000"
     },
     "done": false
@@ -823,6 +864,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-19 00:16:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-04-19 00:05:48 +0000"
@@ -844,6 +891,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-04-18 23:49:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-04-19 00:13:34 +0000"
     },
     "done": true
   },
@@ -904,6 +957,12 @@
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2025-04-18 23:49:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-04-19 00:13:34 +0000"
     },
     "done": true
   },
@@ -970,6 +1029,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-18 23:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-19 00:16:39 +0000"
     },
     "done": true
   },

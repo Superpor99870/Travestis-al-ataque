@@ -1869,3 +1869,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19Apr2025 00:11:08.501] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Akukis'/62, l='ServerLevel[world]', x=-25.77, y=108.56, z=5.66]]
 [19Apr2025 00:11:09.678] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['siganconsumiendo'/1043, l='ServerLevel[world]', x=-27.98, y=108.00, z=7.10]]
 [19Apr2025 00:11:10.033] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Akukis'/62, l='ServerLevel[world]', x=-26.62, y=108.48, z=5.62]]
+[19Apr2025 00:12:10.665] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Apr2025 00:12:10.669] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Apr2025 00:17:10.659] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Apr2025 00:17:10.665] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Apr2025 00:17:31.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Spectator Mode]
+[19Apr2025 00:17:33.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Teleported Akukis to siganconsumiendo]
+[19Apr2025 00:17:38.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Survival Mode]
+[19Apr2025 00:21:59.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Spectator Mode]
