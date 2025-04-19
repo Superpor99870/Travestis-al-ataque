@@ -298,6 +298,7 @@
       "cooked_porkchop": "2025-04-19 22:24:16 +0000",
       "cooked_mutton": "2025-04-19 00:21:45 +0000",
       "cooked_beef": "2025-04-18 23:39:52 +0000",
+      "porkchop": "2025-04-19 23:24:47 +0000",
       "spider_eye": "2025-04-19 00:03:31 +0000",
       "potato": "2025-04-19 22:47:02 +0000",
       "bread": "2025-04-19 22:24:02 +0000",
@@ -689,6 +690,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-18 23:55:12 +0000",
+      "minecraft:hoglin": "2025-04-19 23:24:26 +0000",
       "minecraft:spider": "2025-04-19 00:03:22 +0000",
       "minecraft:witch": "2025-04-19 00:08:46 +0000",
       "minecraft:enderman": "2025-04-19 22:34:32 +0000",
