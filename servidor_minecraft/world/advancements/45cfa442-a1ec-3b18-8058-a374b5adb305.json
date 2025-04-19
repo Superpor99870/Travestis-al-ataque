@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-19 23:18:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-19 00:05:54 +0000"
@@ -606,6 +612,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-04-19 23:12:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-04-18 23:34:03 +0000",
@@ -647,6 +659,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 23:33:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-19 23:13:36 +0000"
     },
     "done": true
   },
@@ -843,6 +861,12 @@
     },
     "done": false
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-19 23:18:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-04-19 22:35:09 +0000"
@@ -908,6 +932,13 @@
       "has_iron_pickaxe": "2025-04-18 23:33:35 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-04-19 23:18:25 +0000",
+      "minecraft:soul_sand_valley": "2025-04-19 23:19:01 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
