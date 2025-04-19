@@ -116,3 +116,15 @@
 [19Apr2025 22:41:27.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Spectator Mode]
 [19Apr2025 22:41:31.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Teleported Akukis to siganconsumiendo]
 [19Apr2025 22:41:45.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Survival Mode]
+[19Apr2025 22:45:50.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Akukis went up in flames
+[19Apr2025 22:49:52.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Akukis was slain by entity.mimicer.mimicer
+[19Apr2025 22:50:09.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Teleported Akukis to siganconsumiendo]
+[19Apr2025 22:50:27.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Akukis was slain by Enderman
+[19Apr2025 22:51:51.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Akukis was slain by Enderman
+[19Apr2025 22:51:58.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Spectator Mode]
+[19Apr2025 22:52:03.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Survival Mode]
+[19Apr2025 22:53:26.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: siganconsumiendo was slain by entity.mimicer.mimicer
+[19Apr2025 22:54:04.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Spectator Mode]
+[19Apr2025 22:54:14.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Survival Mode]
+[19Apr2025 22:54:26.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Spectator Mode]
+[19Apr2025 22:54:42.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: siganconsumiendo drowned

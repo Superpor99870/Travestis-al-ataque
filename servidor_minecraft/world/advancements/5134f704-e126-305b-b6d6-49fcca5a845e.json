@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-04-19 22:49:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-04-18 23:30:38 +0000"
@@ -275,8 +281,10 @@
       "cooked_mutton": "2025-04-19 00:21:45 +0000",
       "cooked_beef": "2025-04-18 23:39:52 +0000",
       "spider_eye": "2025-04-19 00:03:31 +0000",
+      "potato": "2025-04-19 22:47:02 +0000",
       "bread": "2025-04-19 22:24:02 +0000",
       "rotten_flesh": "2025-04-19 00:01:32 +0000",
+      "golden_carrot": "2025-04-19 22:47:17 +0000",
       "cooked_chicken": "2025-04-19 16:43:15 +0000",
       "carrot": "2025-04-19 00:17:57 +0000"
     },
@@ -579,6 +587,12 @@
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-19 22:37:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-04-19 22:49:25 +0000"
     },
     "done": true
   },
