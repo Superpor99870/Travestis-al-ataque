@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-04-19 16:33:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-04-18 23:32:48 +0000"
@@ -471,6 +477,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-04-19 16:33:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-04-18 23:49:24 +0000"
@@ -621,6 +633,7 @@
       "minecraft:dark_forest": "2025-04-18 23:26:31 +0000",
       "minecraft:river": "2025-04-18 23:29:04 +0000",
       "minecraft:forest": "2025-04-19 00:13:54 +0000",
+      "minecraft:lush_caves": "2025-04-19 16:36:40 +0000",
       "minecraft:jungle": "2025-04-19 00:13:42 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-18 23:29:06 +0000",
       "minecraft:meadow": "2025-04-18 23:49:27 +0000",
