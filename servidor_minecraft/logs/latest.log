@@ -1,206 +1,106 @@
-[19Apr2025 22:15:14.187] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
-[19Apr2025 22:15:14.192] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[19Apr2025 22:15:14.720] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
-[19Apr2025 22:15:14.723] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/Travestis-al-ataque/servidor_minecraft/mods/OptiFine_1.19.2_HD_U_I2.jar%23101!/
-[19Apr2025 22:15:14.735] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/Travestis-al-ataque/servidor_minecraft/mods/OptiFine_1.19.2_HD_U_I2.jar
-[19Apr2025 22:15:14.739] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
-[19Apr2025 22:15:14.947] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Travestis-al-ataque/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[19Apr2025 22:15:14.979] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
-[19Apr2025 22:15:15.582] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Travestis-al-ataque/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
-[19Apr2025 22:15:15.586] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Travestis-al-ataque/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[19Apr2025 22:15:15.590] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Travestis-al-ataque/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[19Apr2025 22:15:15.592] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Travestis-al-ataque/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[19Apr2025 22:15:15.912] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[19Apr2025 22:15:18.115] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
-[19Apr2025 22:15:18.152] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 384
-[19Apr2025 22:15:19.468] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
-[19Apr2025 22:15:20.778] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[19Apr2025 22:15:20.784] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[19Apr2025 22:15:38.275] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
-[19Apr2025 22:15:42.386] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
-[19Apr2025 22:15:42.396] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
-[19Apr2025 22:15:44.593] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[19Apr2025 22:15:46.744] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.5.0
-[19Apr2025 22:15:48.849] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19Apr2025 22:15:51.212] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Travestis-al-ataque/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23105!/assets/.mcassetsroot' uses unexpected schema
-[19Apr2025 22:15:51.214] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Travestis-al-ataque/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23105!/data/.mcassetsroot' uses unexpected schema
-[19Apr2025 22:15:58.461] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[19Apr2025 22:15:59.677] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1179 advancements
-[19Apr2025 22:16:00.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
-[19Apr2025 22:16:00.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[19Apr2025 22:16:00.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[19Apr2025 22:16:00.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[19Apr2025 22:16:01.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[19Apr2025 22:16:01.326] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[19Apr2025 22:16:01.590] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19Apr2025 22:16:01.592] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[19Apr2025 22:16:01.592] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19Apr2025 22:16:01.593] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[19Apr2025 22:16:01.655] [Thread-0/INFO] [de.cadentem.mimicer.Mimicer/]: Server configuration has been reloaded
-[19Apr2025 22:16:01.666] [Thread-0/INFO] [de.cadentem.mimicer.Mimicer/]: Server configuration has been reloaded
-[19Apr2025 22:16:01.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[19Apr2025 22:16:05.781] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[19Apr2025 22:16:13.299] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[19Apr2025 22:16:23.539] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[19Apr2025 22:16:24.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[19Apr2025 22:16:33.915] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 22:16:33.955] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 22:16:33.958] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 22:16:33.961] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 22:16:33.964] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 22:16:33.973] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 22:16:34.016] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 22:16:34.079] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 22:16:34.082] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 22:16:34.112] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 22:16:34.122] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 22:16:34.130] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 22:16:34.164] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 22:16:34.184] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 22:16:34.224] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 22:16:34.247] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 22:16:34.270] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 22:16:34.318] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 22:16:34.357] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 22:16:34.358] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 22:16:34.361] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 22:16:34.769] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 22:16:35.305] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 22:16:35.773] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 22:16:36.281] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 22:16:36.772] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 22:16:37.267] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 22:16:37.767] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 22:16:38.539] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 22:16:38.797] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
-[19Apr2025 22:16:39.462] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 15196 ms
-[19Apr2025 22:16:39.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (37.834s)! For help, type "help"
-[19Apr2025 22:16:39.472] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[19Apr2025 22:17:00.015] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@245da24b
-[19Apr2025 22:17:00.076] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: siganconsumiendo[/172.22.56.168:52110] logged in with entity id 162 at (-34.69999998807907, 109.0, 3.699999988079071)
-[19Apr2025 22:17:00.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: siganconsumiendo joined the game
-[19Apr2025 22:17:03.302] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@701c49ec
-[19Apr2025 22:17:03.322] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Akukis[/172.22.156.190:62660] logged in with entity id 164 at (-32.3327406155172, 112.0, 2.925000011920929)
-[19Apr2025 22:17:03.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Akukis joined the game
-[19Apr2025 22:17:05.138] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[19Apr2025 22:17:22.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Spectator Mode]
-[19Apr2025 22:17:27.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Survival Mode]
-[19Apr2025 22:19:05.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Removed effect Saturation from Akukis]
-[19Apr2025 22:20:31.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: siganconsumiendo was slain by Zombie
-[19Apr2025 22:21:42.974] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2750ms or 55 ticks behind
-[19Apr2025 22:22:50.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Spectator Mode]
-[19Apr2025 22:22:54.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Teleported Akukis to siganconsumiendo]
-[19Apr2025 22:23:00.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Survival Mode]
-[19Apr2025 22:25:48.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: siganconsumiendo has made the advancement [Not Today, Thank You]
-[19Apr2025 22:27:49.945] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-277, y=64, z=41} BlockPos{x=-277, y=62, z=41}
-[19Apr2025 22:28:42.693] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/3690, l='ServerLevel[world]', x=-327.07, y=66.00, z=88.30] died, message: 'Cleric was slain by Akukis'
-[19Apr2025 22:28:56.037] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/3691, l='ServerLevel[world]', x=-327.07, y=66.00, z=88.30] died, message: 'Nitwit was slain by Akukis'
-[19Apr2025 22:28:58.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: siganconsumiendo was slain by entity.mimicer.mimicer
-[19Apr2025 22:30:03.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Spectator Mode]
-[19Apr2025 22:30:17.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Survival Mode]
-[19Apr2025 22:30:38.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Summoned new Villager]
-[19Apr2025 22:30:39.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Summoned new Villager]
-[19Apr2025 22:30:42.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Summoned new Villager]
-[19Apr2025 22:30:44.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Summoned new Villager]
-[19Apr2025 22:30:45.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Summoned new Villager]
-[19Apr2025 22:30:46.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Summoned new Villager]
-[19Apr2025 22:30:52.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Summoned new Villager]
-[19Apr2025 22:30:54.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Summoned new Villager]
-[19Apr2025 22:31:01.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Spectator Mode]
-[19Apr2025 22:31:05.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Teleported Akukis to siganconsumiendo]
-[19Apr2025 22:31:12.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Survival Mode]
-[19Apr2025 22:35:58.590] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-107, y=64, z=-254} BlockPos{x=-108, y=62, z=-252}
-[19Apr2025 22:38:47.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Akukis) moved wrongly! 0.29721547522007086
-[19Apr2025 22:39:49.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Akukis drowned
-[19Apr2025 22:40:25.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: siganconsumiendo drowned
-[19Apr2025 22:41:27.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Spectator Mode]
-[19Apr2025 22:41:31.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Teleported Akukis to siganconsumiendo]
-[19Apr2025 22:41:45.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Survival Mode]
-[19Apr2025 22:45:50.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Akukis went up in flames
-[19Apr2025 22:49:52.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Akukis was slain by entity.mimicer.mimicer
-[19Apr2025 22:50:09.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Teleported Akukis to siganconsumiendo]
-[19Apr2025 22:50:27.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Akukis was slain by Enderman
-[19Apr2025 22:51:51.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Akukis was slain by Enderman
-[19Apr2025 22:51:58.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Spectator Mode]
-[19Apr2025 22:52:03.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Survival Mode]
-[19Apr2025 22:53:26.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: siganconsumiendo was slain by entity.mimicer.mimicer
-[19Apr2025 22:54:04.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Spectator Mode]
-[19Apr2025 22:54:14.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Survival Mode]
-[19Apr2025 22:54:26.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Spectator Mode]
-[19Apr2025 22:54:42.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: siganconsumiendo drowned
-[19Apr2025 22:55:45.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Survival Mode]
-[19Apr2025 22:56:07.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Gave 21 [Raw Iron] to Akukis]
-[19Apr2025 22:56:13.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Akukis tried to swim in lava
-[19Apr2025 22:58:09.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: siganconsumiendo was slain by Akukis
-[19Apr2025 22:59:24.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Spectator Mode]
-[19Apr2025 22:59:35.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Survival Mode]
-[19Apr2025 22:59:50.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Akukis was slain by Zombie
-[19Apr2025 23:00:18.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Spectator Mode]
-[19Apr2025 23:00:22.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Survival Mode]
-[19Apr2025 23:00:26.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Spectator Mode]
-[19Apr2025 23:00:42.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Survival Mode]
-[19Apr2025 23:01:25.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Akukis was slain by siganconsumiendo
-[19Apr2025 23:01:34.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: siganconsumiendo was slain by Akukis
-[19Apr2025 23:01:52.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Gave 15 [Iron Ingot] to Akukis]
-[19Apr2025 23:03:19.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Gave 1 [Iron Sword] to Akukis]
-[19Apr2025 23:05:34.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Gave 64 [Torch] to Akukis]
-[19Apr2025 23:09:53.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: siganconsumiendo fell from a high place
-[19Apr2025 23:10:03.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Spectator Mode]
-[19Apr2025 23:10:26.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Teleported Akukis to siganconsumiendo]
-[19Apr2025 23:10:29.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Survival Mode]
-[19Apr2025 23:11:18.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Akukis has made the advancement [Hot Stuff]
-[19Apr2025 23:12:16.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Spectator Mode]
-[19Apr2025 23:12:34.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Survival Mode]
-[19Apr2025 23:12:38.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Spectator Mode]
-[19Apr2025 23:12:41.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Teleported Akukis to siganconsumiendo]
-[19Apr2025 23:12:50.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Survival Mode]
-[19Apr2025 23:13:36.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: siganconsumiendo has made the advancement [Hot Stuff]
-[19Apr2025 23:14:02.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Akukis tried to swim in lava
-[19Apr2025 23:14:32.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Teleported Akukis to siganconsumiendo]
-[19Apr2025 23:17:03.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Spectator Mode]
-[19Apr2025 23:17:07.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Survival Mode]
-[19Apr2025 23:17:29.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Spectator Mode]
-[19Apr2025 23:17:34.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Survival Mode]
-[19Apr2025 23:18:21.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Akukis has made the advancement [We Need to Go Deeper]
-[19Apr2025 23:18:21.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3141ms or 62 ticks behind
-[19Apr2025 23:18:25.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: siganconsumiendo has made the advancement [We Need to Go Deeper]
-[19Apr2025 23:18:56.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Akukis was doomed to fall
-[19Apr2025 23:19:08.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Gave 1 [Water Bucket] to Akukis]
-[19Apr2025 23:19:10.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: siganconsumiendo was burnt to a crisp whilst fighting Ghast
-[19Apr2025 23:19:28.866] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2343ms or 46 ticks behind
-[19Apr2025 23:19:30.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Spectator Mode]
-[19Apr2025 23:19:37.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Survival Mode]
-[19Apr2025 23:20:35.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Teleported siganconsumiendo to Akukis]
-[19Apr2025 23:20:40.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Akukis tried to swim in lava to escape siganconsumiendo
-[19Apr2025 23:20:48.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Spectator Mode]
-[19Apr2025 23:20:52.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: siganconsumiendo tried to swim in lava
-[19Apr2025 23:20:57.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Survival Mode]
-[19Apr2025 23:21:01.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Spectator Mode]
-[19Apr2025 23:21:27.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Creative Mode]
-[19Apr2025 23:21:37.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Survival Mode]
-[19Apr2025 23:21:47.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Spectator Mode]
-[19Apr2025 23:21:52.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Survival Mode]
-[19Apr2025 23:23:36.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Akukis tried to swim in lava
-[19Apr2025 23:23:52.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Spectator Mode]
-[19Apr2025 23:24:06.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Survival Mode]
-[19Apr2025 23:24:12.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Spectator Mode]
-[19Apr2025 23:24:15.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Teleported Akukis to siganconsumiendo]
-[19Apr2025 23:24:20.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Survival Mode]
-[19Apr2025 23:25:13.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Spectator Mode]
-[19Apr2025 23:25:46.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Survival Mode]
-[19Apr2025 23:25:48.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Teleported siganconsumiendo to Akukis]
-[19Apr2025 23:25:52.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: siganconsumiendo tried to swim in lava
-[19Apr2025 23:26:16.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Akukis tried to swim in lava
-[19Apr2025 23:28:04.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: siganconsumiendo was slain by Akukis
-[19Apr2025 23:28:09.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Akukis> ezzzzz
-[19Apr2025 23:30:17.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: siganconsumiendo was slain by Akukis
-[19Apr2025 23:30:48.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Akukis burned to death
-[19Apr2025 23:30:59.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Spectator Mode]
-[19Apr2025 23:31:05.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Survival Mode]
-[19Apr2025 23:31:34.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Gave 64 [Stone] to Akukis]
-[19Apr2025 23:32:06.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Akukis was slain by siganconsumiendo
-[19Apr2025 23:32:10.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Teleported Akukis to siganconsumiendo]
-[19Apr2025 23:32:11.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: siganconsumiendo was slain by Akukis
-[19Apr2025 23:32:52.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <siganconsumiendo> puto
-[19Apr2025 23:32:55.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <siganconsumiendo> a
-[19Apr2025 23:35:36.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <siganconsumiendo> Akukis
+[19May2025 21:03:31.975] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
+[19May2025 21:03:31.998] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[19May2025 21:03:32.558] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[19May2025 21:03:32.559] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/Travestis-al-ataque/servidor_minecraft/mods/OptiFine_1.19.2_HD_U_I2.jar%23101!/
+[19May2025 21:03:32.585] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/Travestis-al-ataque/servidor_minecraft/mods/OptiFine_1.19.2_HD_U_I2.jar
+[19May2025 21:03:32.590] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[19May2025 21:03:32.923] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Travestis-al-ataque/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[19May2025 21:03:32.950] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[19May2025 21:03:34.331] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Travestis-al-ataque/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[19May2025 21:03:34.333] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Travestis-al-ataque/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[19May2025 21:03:34.337] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Travestis-al-ataque/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[19May2025 21:03:34.341] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Travestis-al-ataque/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[19May2025 21:03:34.663] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[19May2025 21:03:36.401] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[19May2025 21:03:36.444] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 384
+[19May2025 21:03:37.969] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[19May2025 21:03:39.797] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[19May2025 21:03:39.799] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[19May2025 21:03:54.459] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[19May2025 21:03:59.695] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
+[19May2025 21:03:59.703] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
+[19May2025 21:04:02.640] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[19May2025 21:04:03.938] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.5.0
+[19May2025 21:04:06.286] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19May2025 21:04:08.948] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Travestis-al-ataque/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23105!/assets/.mcassetsroot' uses unexpected schema
+[19May2025 21:04:08.948] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Travestis-al-ataque/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23105!/data/.mcassetsroot' uses unexpected schema
+[19May2025 21:04:15.639] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[19May2025 21:04:17.033] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1179 advancements
+[19May2025 21:04:18.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[19May2025 21:04:18.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[19May2025 21:04:18.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[19May2025 21:04:18.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[19May2025 21:04:18.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[19May2025 21:04:18.977] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[19May2025 21:04:19.255] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19May2025 21:04:19.256] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[19May2025 21:04:19.257] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19May2025 21:04:19.257] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[19May2025 21:04:19.327] [Thread-0/INFO] [de.cadentem.mimicer.Mimicer/]: Server configuration has been reloaded
+[19May2025 21:04:19.338] [Thread-0/INFO] [de.cadentem.mimicer.Mimicer/]: Server configuration has been reloaded
+[19May2025 21:04:19.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[19May2025 21:04:39.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[19May2025 21:04:51.346] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:51.349] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:51.373] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:51.407] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:51.432] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:51.469] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:51.499] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:51.507] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:51.549] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:51.567] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:51.601] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:51.637] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:51.691] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:51.776] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:51.840] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:51.915] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:51.966] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:51.987] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:52.020] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:52.063] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:52.097] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:52.183] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:52.195] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:52.216] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:52.242] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:52.255] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:52.554] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:53.055] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:53.566] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:54.047] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:54.569] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:55.048] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:55.570] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:56.047] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:56.546] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:57.047] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:57.549] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:58.255] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 21:04:58.829] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 8%
+[19May2025 21:04:59.180] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 77%
+[19May2025 21:04:59.891] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 20346 ms
+[19May2025 21:04:59.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (40.594s)! For help, type "help"
+[19May2025 21:04:59.912] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[19May2025 21:05:16.701] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2085a975
+[19May2025 21:05:16.757] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: siganconsumiendo[/172.22.56.168:53792] logged in with entity id 170 at (-25.5, 108.0, 7.5)
+[19May2025 21:05:16.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: siganconsumiendo joined the game
+[19May2025 21:05:27.227] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@56e9dfe
+[19May2025 21:05:27.253] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Akukis[/172.22.156.190:58434] logged in with entity id 192 at (-26.969036808516588, 108.0, 7.0229937250448025)
+[19May2025 21:05:27.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Akukis joined the game
+[19May2025 21:05:50.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Spectator Mode]
+[19May2025 21:05:57.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Akukis moved too quickly! -2.4737660092574814,2.5911678767164403,9.531788863939685
+[19May2025 21:06:01.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Akukis: Set own game mode to Survival Mode]
+[19May2025 21:13:32.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Akukis was blown up by Creeper
+[19May2025 21:16:50.571] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Akukis lost connection: Disconnected
+[19May2025 21:16:50.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Akukis left the game
+[19May2025 21:17:27.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: siganconsumiendo has made the advancement [The Parrots and the Bats]
+[19May2025 21:17:36.033] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6fe0008c
+[19May2025 21:17:36.049] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Akukis[/172.22.156.190:58629] logged in with entity id 3973 at (-27.27881212170552, 108.0, 9.187266852425363)
+[19May2025 21:17:36.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Akukis joined the game
+[19May2025 21:22:02.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Akukis lost connection: Disconnected
+[19May2025 21:22:02.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Akukis left the game
+[19May2025 21:22:47.676] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@31a6e2cd
+[19May2025 21:22:47.687] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Akukis[/172.22.156.190:58686] logged in with entity id 4709 at (-54.420336658151676, 119.0, 16.04559108208394)
+[19May2025 21:22:47.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Akukis joined the game
